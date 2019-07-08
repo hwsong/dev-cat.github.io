@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dev&amp;Cat Log</title>
+    <link>https://devcat.github.io/post/</link>
+    <description>Recent content in Posts on Dev&amp;Cat Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <managingEditor>hwsong85@gmail.com (hwsong)</managingEditor>
+    <webMaster>hwsong85@gmail.com (hwsong)</webMaster>
+    <lastBuildDate>Sun, 07 Jul 2019 17:48:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://devcat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prologue</title>
+      <link>https://devcat.github.io/post/prologue/</link>
+      <pubDate>Sun, 07 Jul 2019 17:48:55 +0900</pubDate>
+      <author>hwsong85@gmail.com (hwsong)</author>
+      <guid>https://devcat.github.io/post/prologue/</guid>
+      <description>&lt;h1 id=&#34;블로그를-시작&#34;&gt;블로그를 시작&lt;/h1&gt;
+
+&lt;p&gt;개발에 관련된 블로그를 다시 시작해보려고 합니다.&lt;/p&gt;
+
+&lt;p&gt;학생때는 블로그에 잔뜩 기록하면서 개발공부를 했지만, 회사를 다니게 되면서 귀차니즘으로 하지 않고있었습니다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
